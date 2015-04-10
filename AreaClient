@@ -65,7 +65,7 @@ public class AreaClient{
 		} catch ( IOException e ){
 		  System.err.println( e );
 		}
-	
+	// bye bye
 	}
 	
 }
